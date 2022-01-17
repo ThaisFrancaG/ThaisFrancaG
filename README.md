@@ -8,6 +8,9 @@ Status: coding (or reading about coding)
 - 🌱 I’m currently learning about Back-End
 -
 
-[![Thais GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaisFrancaG)](https://github.com/anuraghazra/github-readme-stats)
+[![Thais GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaisFrancaG&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisFrancaG&layout=compact&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <a href="https://app.daily.dev/AhiruBlue"><img src="https://api.daily.dev/devcards/683006d1c7564bae826100b41c4299b4.png?r=qb8" width="400" alt="Thaís França's Dev Card"/></a>
