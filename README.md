@@ -49,18 +49,18 @@ Meu nome é Thaís, formada em engenharia mecânica e desenvolvedora full-stack 
 
 <br>
 
-<div align = "center">
+<div align = "end">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200px"  src="https://github-readme-stats.vercel.app/api?username=ThaisFrancaG&show_icons=true&hide_border=true&theme=nord&bg_color=22272E&hide_rank=false" alt="Github Stats"/>
+    <img  max-width = "50%" src="https://github-readme-stats.vercel.app/api?username=ThaisFrancaG&show_icons=true&hide_border=true&theme=nord&bg_color=22272E&hide_rank=false" alt="Github Stats"/>
   </a><a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisFrancaG&layout=compact&hide_border=true&theme=nord&bg_color=22272E&card_width=250" alt="Languages" />
+    <img max-width = "50%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisFrancaG&layout=compact&hide_border=true&theme=nord&bg_color=22272E&card_width=250" alt="Languages" />
   </a>
 </div>
 
 ## Bônus!
 
-<div  align = "end">
+<div  align = "start">
 
 <a  href="https://app.daily.dev/AhiruBlue"><img  src="https://api.daily.dev/devcards/683006d1c7564bae826100b41c4299b4.png?r=qb8"  width="200"  alt="Thaís França's Dev Card"/></a>
 
