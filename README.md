@@ -1,12 +1,12 @@
 ### Olá! Bem vindo ao meu Readme :computer: :books:
 
-Meu nome é Thaís, formada em engenharia mecânica e desenvolvedora full-stack em formação!
+Meu nome é Thaís, desenvolvedora full-stack em eterna formação!
 
 - ✨ Pronomes Ela/Dela
 
-- :trophy: Desenvolvedora front-ent
+- :trophy: Desenvolvedora full-stack
 
-- :art: Desenhista nas horas vagas (UX Design me aguarde)
+- :art: Desenhista nas horas vagas
 
 - :pencil2: Fique à vontade para entrar em contato!
 
